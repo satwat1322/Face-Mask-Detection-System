@@ -4,7 +4,7 @@ Using CNN, Deep Learning this project was developed .
 # Goal of the project 
 Goal was to develop a system that canautomatically detect if a person is wearing a face mask or not in an image. This became useful during the COVID-19 pandemic to identify people not following mask guidelines .
 
-# key points explaining the methodology and code used for the face mask detection system:
+# Key Points : methodology and code used for the face mask detection system:
 
 Libraries Imported: The project imported key Python libraries like Keras, TensorFlow, matplotlib, numpy, os, random, cv2 etc. These libraries provide functionality for building and training neural networks (Keras, TensorFlow), data manipulation and visualization (numpy, matplotlib), and image processing (cv2).
 
